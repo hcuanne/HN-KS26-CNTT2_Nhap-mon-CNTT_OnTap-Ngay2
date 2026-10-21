@@ -160,7 +160,7 @@ cat logs/tong_hop_ngay2.txt
 2025-10-18 08:53:11 [ERROR] Het thoi gian cho (timeout)
 
 
-
+5
   
 
 ```
