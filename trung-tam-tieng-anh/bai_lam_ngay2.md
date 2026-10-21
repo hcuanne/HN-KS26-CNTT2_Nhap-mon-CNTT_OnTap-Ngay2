@@ -88,7 +88,7 @@ ERROR trong payment.log:3
 
 ```shell
 
-touch auto_warning.sh
+bash auto_warning.sh
 
   
 
